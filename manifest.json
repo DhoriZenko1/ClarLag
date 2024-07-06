@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Karmas ClearLag",
+        "name": "Karmas ClearLag V2.1",
         "description": "ClearLag :3 ",
         "uuid": "be1a264f-9cc1-425f-abcf-a642ddaef97f",
-        "version": [1, 2, 0],
+        "version": [1, 2, 1],
         "min_engine_version": [1, 20, 0]
     },
     "metadata": {
